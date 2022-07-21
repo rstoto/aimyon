@@ -2,8 +2,8 @@ let count = 0;
 const mainElement = document.querySelector("div.main>img");
 const url = [
 "https://pbs.twimg.com/media/FViQKudUsAAfnkR?format=jpg&name=medium",
-"https://www.waseda.jp/top/assets/uploads/2014/03/maejima-360x270.jpg",
-"https://www.waseda.jp/top/assets/uploads/2014/03/hatoyama-360x270.jpg",
+"https://pbs.twimg.com/media/FWlUceWUIAExF7S?format=jpg&name=medium",
+"https://pbs.twimg.com/media/FVSeD-ZUsAEaZZT?format=jpg&name=medium",
 "https://www.waseda.jp/top/assets/uploads/2014/03/takada-360x270.jpg",
 "https://www.waseda.jp/top/assets/uploads/2014/03/amano-360x270.jpg",
 "https://www.waseda.jp/top/assets/uploads/2014/03/hiranuma-360x270.jpg",
