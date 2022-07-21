@@ -1,7 +1,7 @@
 let count = 0;
 const mainElement = document.querySelector("div.main>img");
 const url = [
-"https://www.waseda.jp/top/assets/uploads/2014/03/hidemaro-360x270.jpg",
+"https://pbs.twimg.com/media/FViQKudUsAAfnkR?format=jpg&name=medium",
 "https://www.waseda.jp/top/assets/uploads/2014/03/maejima-360x270.jpg",
 "https://www.waseda.jp/top/assets/uploads/2014/03/hatoyama-360x270.jpg",
 "https://www.waseda.jp/top/assets/uploads/2014/03/takada-360x270.jpg",
